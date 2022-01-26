@@ -1,8 +1,0 @@
-\documentclass{beamer}
-
-\title{Hello beamer}
-\author{Jan Kowalski}
-
-\begin{document}
-\titlepage
-\end{document}
